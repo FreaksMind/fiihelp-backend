@@ -1,0 +1,318 @@
+--- ACADEMIC STAFF ---
+More information link: https://www.info.uaic.ro/personal-academic
+
+[Dr. Lenuța Alboaie], Profesor universitar
+- Office: Building C, Office C310
+- Web Address: https://profs.info.uaic.ro/~adria
+- Email: adria@info.uaic.ro
+
+[Dr. Bogdan Aman], C.S. II
+- Web Address: https://profs.info.uaic.ro/~bogdan.aman/
+- Email: bogdan.aman@info.uaic.ro
+- Fields of interest: Membrane Computing, Process Algebra, Petri Nets, Formal Languages, Automata Theory
+
+[Drd. Dan Gabriel Anton], Asistent universitar
+- Email: anton.dan@info.uaic.ro
+
+[Dr. Nicoleta Armanu], Lector universitar
+- Office: Building C, Office C902
+- Web Address: https://profs.info.uaic.ro/~nicky
+- Email: nicky@info.uaic.ro
+
+[Dr. Andreea Arusoaie], Conferențiar universitar
+- Office: Building C, Office C307
+- Web Address: http://profs.info.uaic.ro/~andreea.arusoaie
+- Email: andreea.arusoaie@info.uaic.ro
+- Fields of interest: Mathematical Modelling, Numerical Analysis, Dynamical Systems, Astronomy
+
+[Dr. Andrei Arusoaie], Conferențiar universitar
+- Office: Building C, Office C414
+- Web Address: https://profs.info.uaic.ro/~arusoaie.andrei/
+- Email: arusoaie.andrei@info.uaic.ro
+- Fields of interest: Programming Languages, Logics, Verification of programs, Functional Programming
+
+[Dr. Mihai-Răzvan Benchea], Lector universitar
+- Office: Building C, Office C213
+- Web Address: https://profs.info.uaic.ro/~rbenchea
+- Email: rbenchea@info.uaic.ro
+- Fields of interest: Machine Learning, Neural Networks, Object-Oriented Programming
+
+[Dr. Mihaela Elena Breabăn], Conferențiar universitar
+- Office: Building C, Office C416
+- Web Address: https://profs.info.uaic.ro/~pmihaela
+- Email: pmihaela@info.uaic.ro
+
+[Dr. Sabin Corneliu Buraga], Profesor universitar
+- Office: Building C, Office C303
+- Web Address: https://profs.info.uaic.ro/~busaco/
+- Email: busaco@info.uaic.ro
+- Fields of interest: (Semantic) Web Technologies, Human-Computer Interaction
+
+[Dr. Cătălin Bîrjoveanu], Lector universitar
+- Office: Building C, Office C904
+- Web Address: https://profs.info.uaic.ro/~cbirjoveanu/
+- Email: cbirjoveanu@info.uaic.ro
+- Fields of interest: Electronic Commerce Security, Digital Cash and Payment Systems, Anonymity and Privacy, Security Protocols, Applied Cryptography, Smart Cards, Security Verification and Validation
+
+[Drd. Cristina Georgiana Calancea], Asistent universitar
+- Office: Building C, Office 310
+- Web Address: https://profs.info.uaic.ro/~gcalancea/
+- Email: gcalancea@info.uaic.ro
+- Fields of interest: Cloud Computing, Computer Networks, Web Technologies, Distributed Systems
+
+[Dr. Oana Captarencu], Lector universitar
+- Office: Building C, Office C211
+- Web Address: https://profs.info.uaic.ro/~otto
+- Email: otto@info.uaic.ro
+
+[Dr. Gabriel Ciobanu], C.S. I
+- Web Address: https://profs.info.uaic.ro/~gabriel/
+- Email: gabriel@info.uaic.ro
+- Fields of interest: Formal Methods for Distributed and Concurrent Systems, Membrane Systems (Natural Computing), Bridging Membrane Computing and Process Calculi, Foundations of Mathematics and Computer Science: Finitely Supported Mathematics
+
+[Dr. Ștefan Ciobâcă], Conferențiar universitar
+- Office: Building C, Office C508
+- Web Address: https://profs.info.uaic.ro/~stefan.ciobaca
+- Email: stefan.ciobaca@info.uaic.ro
+- Fields of interest: Formal Methods, Logics, Security, Algorithms
+
+[Dr. Liviu Ciortuz], Conferențiar universitar
+- Office: Building C, Office C213 AND Building R, Office R206
+- Web Address: https://profs.info.uaic.ro/~ciortuz
+- Email: ciortuz@info.uaic.ro
+
+[Drd. Georgiana Coca], Asistent universitar
+- Email: georgiana.coca@info.uaic.ro
+
+[Dr. Rodica Condurache], Lector universitar
+- Office: Building C, Office C211
+- Web Address: https://profs.info.uaic.ro/~rodica.condurache/
+- Email: rodica.condurache@info.uaic.ro
+- Fields of interest: Temporal Logics, the verification and synthesis of systems
+
+[Dr. Dan Cristea], Profesor universitar
+- Office: Building C, Office C511
+- Web Address: https://profs.info.uaic.ro/~dcristea
+- Email: dcristea@info.uaic.ro
+
+[Dr. Eugen Nicolae Croitoru], Lector universitar
+
+[Drd. Ciprian Cușmuliuc], Asistent universitar
+- Email: gabriel.cusmuliuc@info.uaic.ro
+
+[Dr. Paul Diac], Lector universitar
+- Office: Building C, Office C414
+- Web Address: https://profs.info.uaic.ro/~paul.diac
+- Email: paul.f.diac@gmail.com
+
+[Dr. Corina Forăscu], Conferențiar universitar
+- Office: Building C, Office C417
+- Web Address: https://profs.info.uaic.ro/~corinfor
+- Email: corina.forascu@gmail.com,corinfor@info.uaic.ro
+- Fields of interest: Artificial Intelligence, Computational Linguistics, Natural Language Processing, Entrepreneurship, Innovation, IoT, Smart Cities
+
+[Dr. Cristian Andrei Frăsinaru], Lector universitar
+- Office: Building C, Office C212
+- Web Address: https://profs.info.uaic.ro/~acf
+- Email: acf@info.uaic.ro
+
+[Dr. Cristian Gațu], Conferențiar universitar
+- Office: Building C, Office C212
+- Web Address: https://profs.info.uaic.ro/~cgatu
+- Email: cgatu@info.uaic.ro
+
+[Dr. Constantin Lucian Ghirvu], Lector universitar
+- Office: Building C, Office C213
+- Web Address: https://profs.info.uaic.ro/~ghirvu
+- Email: ghirvu@info.uaic.ro
+
+[Dr. Daniela Gîfu], C.S. II
+- Web Address: https://profs.info.uaic.ro/~daniela.gifu/
+- Email: daniela.gifu@info.uaic.ro
+- Fields of interest: Web of Linked Data, Machine Learning, Semantic Annotation, Text Categorization, Content Analysis, Sentiment Analysis in Social Media, Discourse Analysis, DWord Sense Disambiguation
+
+[Dr. Sorin Iftene], Lector universitar
+- Office: Building C, Office C904
+- Web Address: https://profs.info.uaic.ro/~siftene/
+- Email: siftene@info.uaic.ro
+- Fields of interest: Cryptography, Computational Number Theory
+
+[Dr. Adrian Iftene], Profesor universitar
+- Office: Building C, Office C204
+- Web Address: https://profs.info.uaic.ro/~adiftene
+- Email: adiftene@info.uaic.ro
+- Fields of interest: Software Engineering. Artificial Intelligence
+
+[Dr. Anca Ignat], Conferențiar universitar
+- Office: Building C, Office C307
+- Web Address: https://profs.info.uaic.ro/~ancai/
+- Email: ancai@info.uaic.ro
+- Fields of interest: Digital image processing, Machine Learning, Numerical Calculus
+
+[Dr. Dorel Lucanu], Profesor universitar
+- Office: Building C, Office C507
+- Web Address: https://fmse.info.uaic.ro/member/dorel-lucanu/
+- Email: dlucanu@info.uaic.ro
+- Fields of interest: Formal methods, programming languages, software engineering, logics, rewriting
+
+[Dr. Henri Luchian], Profesor universitar
+- Office: Building C, Office C304
+- Web Address: https://profs.info.uaic.ro/~hluchian
+- Email: hluchian@info.uaic.ro
+
+[Dr. Alex Mihai Moruz], Lector universitar
+- Office: Building C, Office C215
+- Web Address: https://profs.info.uaic.ro/~mmoruz
+- Email: mmoruz@info.uaic.ro
+
+[Dr. Anca-Maria Nica], Lector universitar
+- Office: Building C, Office C301
+- Web Address: https://profs.info.uaic.ro/~nica.anca
+- Email: nica.anca@info.uaic.ro
+- Fields of interest: Cryptography, Number Theory, Quadratic Residues, IBE, ABE, Information Security
+
+[Dr. Emanuel Florentin Olariu], Lector universitar
+- Office: Building C, Office C212
+- Web Address: https://profs.info.uaic.ro/~olariu
+- Email: olariu@info.uaic.ro
+- Fields of interest: Optimization Theory, Operational Research, Graph Algorithms, Probability and Statistics.
+
+[Dr. Emanuel Onica], Conferențiar universitar
+- Office: Building C, Office C212
+- Web Address: https://profs.info.uaic.ro/~eonica/
+- Email: eonica@info.uaic.ro
+- Fields of interest: Distributed Systems, Security
+
+[Dr. Paula-Andreea Onofrei], Lector universitar
+- Office: Building C, Office C902
+- Web Address: http://www.info.uaic.ro/bin/Structure/ponofrei?language=ro
+- Email: paula.onofrei@info.uaic.ro
+- Fields of interest: English, French, C.S.I. (Centre of Interdisciplinary Studies), Augmented Reality, Literature, Arts, Applied Linguistics, Didactics
+
+[Dr. Andrei Panu], Conferențiar universitar
+- Office: Building C, Office C310
+- Web Address: https://profs.info.uaic.ro/~andrei.panu/
+- Email: andrei.panu@info.uaic.ro
+- Fields of interest: Computer Networks, Web Technologies, Distributed Systems
+
+[Dr. Ionuț Cristian Pistol], Lector universitar
+- Office: Building C, Office C214
+- Web Address: https://profs.info.uaic.ro/~ipistol
+- Email: ipistol@info.uaic.ro
+- Fields of interest: Artificial Intelligence: AI Issues, Natural Language Processing, Machine Learning
+
+[Drd. George Popoiu], Asistent universitar
+- Email: popoiu.george@info.uaic.ro
+
+[Drd. Dumitru-Bogdan Prelipcean], Asistent universitar
+- Email: dumitru.prelipcean@info.uaic.ro
+
+[Dr. Bogdan Pătruț], Lector universitar
+- Office: Building C, Office C216
+- Web Address: https://profs.info.uaic.ro/~bogdan/
+- Email: bogdan@info.uaic.ro
+- Fields of interest: Social Media and Artificial Intelligence in Education and Political Science
+
+[Dr. Vlad Rădulescu], Lector universitar
+- Office: Building C, Office C310
+- Web Address: https://profs.info.uaic.ro/~rvlad
+- Email: rvlad@info.uaic.ro
+
+[Dr. Mădălina Răschip], Conferențiar universitar
+- Office: Building C, Office C416
+- Web Address: https://profs.info.uaic.ro/~mionita/
+- Email: mionita@info.uaic.ro
+- Fields of interest: Artificial Intelligence, Optimization, Algorithms
+
+[Dr. Ferucio Laurentiu Tiplea], Profesor universitar
+- Office: Building C, Office C301
+- Web Address: https://profs.info.uaic.ro/~fltiplea
+- Email: fltiplea@gmail.com, ferucio.tiplea@uaic.ro
+
+[Dr. Diana Trandabăț], Conferențiar universitar
+- Office: Building R, Office R201
+- Web Address: https://profs.info.uaic.ro/~dtrandabat/index.php
+- Email: dtrandabat@info.uaic.ro
+- Fields of interest: natural language processing, artificial intelligence
+
+[Dr. Traian Cristian Vidraşcu], Lector universitar
+- Office: Building C, Office C213
+- Web Address: http://www.info.uaic.ro/~vidrascu
+- Email: vidrascu@info.uaic.ro
+- Fields of interest: Modeling and verification of concurrent/distributed systems, Petri nets, Parallel and distributed computing,
+
+[Dr. Simona Elena Vârlan], Lector universitar
+- Web Address: https://profs.info.uaic.ro/~simona.varlan/
+
+[Dr. Nicolae Cosmin Vârlan], Lector universitar
+- Office: Building C, Office C211
+- Web Address: https://profs.info.uaic.ro/~vcosmin/main
+- Email: vcosmin@info.uaic.ro
+- Fields of interest: Databases, IoT
+
+[Dr. Adrian Zălinescu], Conferențiar universitar
+- Web Address: https://profs.info.uaic.ro/~adrian.zalinescu/
+
+--- ASSOCIATED STAFF ---
+More information link: https://www.info.uaic.ro/personal-asociat/
+
+[Radu-Iulian Artene]
+- Email: artene.radu@gmail.com
+- Fields of interest: Project Management, Project Evaluation and Auditing, Financial-Accounting Information Systems
+
+[Ioan Asiminoaei]
+- Office: Building C, Office C216
+- Web Address: https://profs.info.uaic.ro/~iasimin
+- Email: iasimin@info.uaic.ro
+- Fields of interest: .NET Technologies, Databases
+
+[Amariei Ciprian]
+
+[Liliana Cojocaru]
+- Email: lcojocarus@yahoo.com
+- Fields of interest: Automata and Formal Languages, Computability and Complexity, Algorithms, Graph Theory
+
+[PhD Student Vlad Constantin Crăciun]
+
+[Dr. Cătălin Damian], Associate Professor
+- Web Address: https://profs.info.uaic.ro/~cdamian/
+- Email: cdamian@info.uaic.ro
+- Fields of interest: Cloud Computing, Computer Networks
+
+[PhD Student Călcâi Liviu Dordoruț]
+
+[PhD Student Mihai Leonte]
+
+[PhD Student Marilena Lupașcu]
+
+[Florin Olariu]
+
+[Oriana Oniciuc]
+
+[Dr. Cenel-Augusto Perez], Assistant Professor
+- Office: Building C, Office C902
+- Web Address: https://profs.info.uaic.ro/~augusto.perez
+- Email: augusto.perez@info.uaic.ro
+- Fields of interest: English Department
+
+[PhD Student Abel-Albert Policiuc]
+
+[Emil Simion]
+
+[Alexandru Mihnea Spiridonică]
+
+[Dr. Horia-Nicolai Teodorescu], Full Professor
+- Office: Building A, Lab_II-1
+- Web Address: https://ro.wikipedia.org/wiki/Horia-Nicolai_Teodorescu
+- Email: hteodor@etti.tuiasi.ro
+- Fields of interest: Artificial Intelligence, Computational Linguistics
+
+[Dr. Anca Gabriela Vitcu], Associate Professor
+- Office: Building C, Office C307
+- Web Address: https://profs.info.uaic.ro/~avitcu/
+- Email: avitcu@info.uaic.ro
+- Fields of interest: Social Network Analysis, 3D Animation, Biostatistics
+
+[Dr. Marius Zbancioc], Associate Professor
+
+[Mirela Țibu]

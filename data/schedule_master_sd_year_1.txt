@@ -1,0 +1,57 @@
+Master: Distributed Systems
+Year: 1
+Schedule Link: https://edu.info.uaic.ro/orar/participanti/orar_MSD1.html
+
+[COURSES]
+
+Monday:
+
+Security Protocols: Modeling and Verification – Course – 14:00–16:00 Professor: Lecturer Dr. Cătălin Bîrjoveanu room: C210
+
+Security Protocols: Modeling and Verification – Lab – 16:00–18:00 Professor: Lecturer Dr. Cătălin Bîrjoveanu room: C210
+
+Advanced Topics in Computer Vision – Lab – 18:00–20:00 Professor: Collaborator Dr. Radu Timofte room: C2
+
+Tuesday:
+
+Distributed Systems Modeling – Lab – 08:00–10:00 Professor: Lecturer Dr. Oana Captarencu room: C401
+
+Concurrent and Distributed Programming – Course – 16:00–18:00 Professor: Professor Dr. Lenuța Alboaie room: C309
+
+Concurrent and Distributed Programming – Lab – 18:00–20:00 Professor: Professor Dr. Lenuța Alboaie room: C308
+
+Wednesday:
+
+Pragmatic Cloud Aspects – Course – 08:00–10:00 Professor: — room: Amazon Iași
+
+Distributed Systems Modeling – Course – 12:00–14:00 Professor: Lecturer Dr. Oana Captarencu room: C308
+
+Specification and Verification of Systems – Course – 16:00–18:00 Professor: Associate Professor Dr. Rodica Condurache room: Online
+
+Thursday:
+
+Pragmatic Cloud Aspects – Lab – 08:00–10:00 Professor: — room: Amazon Iași
+
+Event-Based Systems – Course – 16:00–18:00 Professor: Associate Professor Dr. Emanuel Onica room: C309
+
+Event-Based Systems – Lab – 18:00–20:00 Professor: Associate Professor Dr. Emanuel Onica room: C309
+
+Friday:
+
+Experimental Analysis of Algorithms – Lab – 08:00–10:00 Professor: Associate Professor Dr. Mădălina Răschip room: C308
+
+Experimental Analysis of Algorithms – Course – 10:00–12:00 Professor: Associate Professor Dr. Mădălina Răschip room: C309
+
+Specification and Verification of Systems – Seminar – 16:00–18:00 Professor: Associate Professor Dr. Rodica Condurache room: C411
+
+Saturday:
+
+01.03.2025 – Advanced Topics in Computer Vision – Course – Collaborator Dr. Radu Timofte room: Online
+
+15.03.2025 – Advanced Topics in Computer Vision – Course – Collaborator Dr. Radu Timofte room: Online
+
+05.04.2025 – Advanced Topics in Computer Vision – Course – Collaborator Dr. Radu Timofte room: Online
+
+03.05.2025 – Advanced Topics in Computer Vision – Course – Collaborator Dr. Radu Timofte room: Online
+
+17.05.2025 – Advanced Topics in Computer Vision – Course – Collaborator Dr. Radu Timofte room: Online

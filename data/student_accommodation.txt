@@ -1,0 +1,67 @@
+Document: Student Accommodation
+Academic Year: 2024–2025
+Link: https://www.uaic.ro/studenti/cazare/
+
+[CAMPUSES & DORMS]
+- Titu Maiorescu (C5, C6, C7, C8)
+- Codrescu (C10, C11, C12, C13)
+- Târguşor-Copou (C1, C2, C3, C4)
+- Gaudeamus (dorm)
+- Akademos (dorm)
+- Buna Vestire (dorm)
+
+[ACCOMMODATION SCHEDULE]
+- 9 Sep: Faculties submit eligible-student counts & special-case lists
+- 13 Sep: First allocations to faculties
+- 20 Sep 16:00: Lists posted (“T1”)
+- 23–25 Sep: Issue accommodation orders; final move-in by 25 Sep 12:00
+- 25 Sep 12:00: Cancel unclaimed orders; report vacancies
+- 25 Sep 16:00: Lists posted (“T2”)
+- 26–28 Sep: Second round orders; cancellations & vacancy reports each afternoon
+- 30 Sep–1 Oct: Third round; as above (“T4”)
+- 2–11 Oct: Daily 10:00 postings; same-day validity until 16:00
+- From 14 Oct 08:00: Open applications to DCC (email: cazare@uaic.ro)
+
+[ROOM RATES 2024–2025 (RON/bed/mo)]
+| Dorms       | Budgeted RO/UE | Erasmus & Fee-paying     |
+|-------------|---------------:|-------------------------:|
+| C4,C6,C7,C8 |            150 |                      300 |
+| C10,C12,C13 |            150 |                      300 |
+| C11         |            221 |                      371 |
+| C1 (2-bed)  |            358 |                      508 |
+| C1 (3-bed)  |            325 |                      475 |
+| …           |             …  |                       …  |
+| Gaudeamus   |            572 |                      722 |
+| Akademos    |            650 |                      800 |
+| Buna Vestire|            572 |                      722 |
+
+[PAYMENT METHODS]
+- In-person (cash/card) at campus cash desks
+- Bank transfer to: RO68 TREZ 4062 0F33 1400 XXXX
+- Online: https://plati-taxe.uaic.ro/camin/
+- BRD branches: RO37 BRDE 240 SV89 5341 02400
+
+[REQUIRED DOCUMENTS]
+- Accommodation order
+- Accommodation contract (2 copies)
+- Dorm ID card
+- Passport-style photo
+- Residence-permit application (if needed)
+- ID copies (Romanian/foreign)
+- Marriage/birth certificates (family cases)
+- Proof of payment
+- Bank statement (Moldovan first-year)
+
+[ELIGIBILITY & PRIORITY]
+- Full-time students without Iași domicile, ranked by previous-year credits
+- First-years by admission average
+- Special priority: orphans, special-protection, severe-medical, families with children
+
+[DISCOUNTS & EXEMPTIONS]
+Eligible groups (up to dorm C13):
+- Children of teaching staff
+- Orphans (≤ 26 yrs)
+- Single-parent families (≤ 26 yrs)
+- Special-protection wards
+- Students with disabilities (+ companion)
+- Foreign scholarship-holders

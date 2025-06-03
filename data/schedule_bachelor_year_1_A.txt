@@ -1,0 +1,58 @@
+Bachelor: Computer Science
+Year: 1A
+Schedule Link: https://edu.info.uaic.ro/orar/participanti/orar_I1A.html
+
+[COURSES]
+Monday:
+- Probability and Statistics - Course - 08:00-10:00 Professor: Lect. dr. Olariu Florentin Emanuel room: C2
+- Algebraic Foundations of Computer Science - Course - 10:00-12:00 Professor: Prof. dr. Țiplea Ferucio Laurențiu room: C2 Gr.5
+- English language 2 - Lab - 14:00-16:00 Professor: Lect. dr. Onofrei Paula room: C903 Gr.3
+- Probability and Statistics - Lab - 14:00-16:00 Professor: Asist. dr. Chelmuș Teodor room: C411
+- Physical Education - PC - 16:00-20:00 Professor: Bogdan Mihaela
+- Probability and Statistics - Lab - 16:00-18:00 Professor: Asist. dr. Chelmuș Teodor room: C411 Gr.4
+- Object-Oriented Programming - Lab - 18:00-20:00 Professor: Colab. Balan Gheorghe room: C903 Gr.2
+
+Tuesday:
+- Object-Oriented Programming - Course - 08:00-10:00 Professor: Conf. dr. Gavrilut Dragos room: C2
+- Probability and Statistics - Lab - 10:00-12:00 Professor: Conf. dr. Arusoaie Andreea-Valentina room: C413 Gr.1
+- Probability and Statistics - Lab - 10:00-12:00 Professor: Lect. dr. Olariu Florentin Emanuel room: C412 Gr.2
+- Operation Systems - Course - 12:00-14:00 Professor: Lect. dr. Vidrașcu Cristian room: C2
+- Algorithm Design - Course - 14:00-16:00 Professor: Conf. dr. Ciobâcă Ștefan AND Lect. dr. Diac Paul AND Asist. dr. Gratie Diana Elena	room: C2
+- Object-Oriented Programming - Lab - 18:00-20:00 Professor: Colab. Balan Gheorghe room: C210 Gr.3
+
+Wednesday:
+- Algebraic Foundations of Computer Science - Lab - 08:00-10:00	Professor: Lect. dr. Bîrjoveanu Cătălin room: C210 Gr.2
+- Object-Oriented Programming - Lab - 08:00-10:00 Professor: Colab. Anton Dan Gabriel room: C413 Gr.5
+- Algorithm Design - Lab - 08:00-10:00 Professor: Asist. drd. Ioniță Alexandru room: C412 Gr.1
+- Operation Systems - Lab - 08:00-10:00 Professor: Colab. Matei Madalin	room: C401 Gr.3
+- Operation Systems - Lab - 08:00-10:00 Professor: Parpalea Madalina room: C409 Gr.4
+- Algebraic Foundations of Computer Science - Lab - 10:00-12:00	Professor: Lect. dr. Bîrjoveanu Cătălin room: C308 Gr.1
+- English language 2 - Lab - 10:00-12:00 Professor: Asist. dr. Perez Cenel Augusto room: C901 Gr.3
+- Object-Oriented Programming - Lab - 10:00-12:00 Professor: Colab. Anton Dan Gabriel room: C401 Gr.4
+- Algorithm Design - Lab - 10:00-12:00 Professor: Lect. dr. Diac Paul room: C411 Gr.2
+- English language 2 - Lab - 12:00-14:00 Professor: Asist. dr. Perez Cenel Augusto room: C901 Gr.4
+- (Lab)imba engleza 2 - Lab - 14:00-16:00 Professor: Asist. dr. Perez Cenel Augusto room: C901 Gr.1
+- Algorithm Design - Lab - 14:00-16:00 Professor: Conf. dr. Ciobâcă Ștefan	room: C412 Gr.3
+- Algorithm Design - Lab - 14:00-16:00 Professor: Asist. dr. Gratie Diana Elena	room: C308 Gr.5
+- Physical Education - PC - 16:00-20:00	 Professor: Bogdan Mihaela
+- Object-Oriented Programming - Lab - 16:00-18:00 Professor: Colab. Vitel Silviu room: C401 Gr.1
+- Operation Systems - Lab - 16:00-18:00 Professor: Colab. Balan Gheorghe room: C409 Gr.5
+
+Thursday:
+- Algebraic Foundations of Computer Science - Lab - 08:00-10:00	Professor: Asist. drd. Ioniță Alexandru	room: C901 Gr.3
+- Algebraic Foundations of Computer Science - Lab - 08:00-10:00	Professor: Lect. dr. Iftene Sorin room: C905 Gr.5
+- Operation Systems - Lab - 08:00-10:00 Professor: Colab. Matei Madalin room: C409 Gr.2
+- Algebraic Foundations of Computer Science - Lab - 10:00-12:00 Professor: Asist. drd. Ioniță Alexandru room: C901 Gr.4
+- Probability and Statistics - Lab - 10:00-12:00 Professor: Colab. drd. Simionescu Cristian room: C413 Gr.5
+- Operation Systems - Lab - 10:00-12:00	Professor: Lect. dr. Vidrașcu Cristian room: C412 Gr.1
+- Algorithm Design - Lab - 12:00-14:00	Professor: Asist. drd. Ioniță Alexandru room: C411 Gr.4
+- English language 2 - Lab - 14:00-16:00 Professor: Asist. dr. Perez Cenel Augusto room: C901 Gr.2
+- Physical Education - PC - 16:00-20:00	 Professor: Bogdan Mihaela
+- Competitive programming - Lab - 16:00-20:00 Professor: Lect. dr. Diac Paul AND Asist. drd. Ioniță Alexandru AND Colab. Oleniuc Iulian	room: C210
+
+Friday:
+- Pedagogy 1 - Lab - 08:00-10:00 Professor: Pirvu Iuliana room: C901
+- Pedagogy 1 - Course - 10:00-12:00 Professor: Asist. dr. Ghiatau Roxana room: C112
+
+Saturday:
+- Competitive programming - Lab - 10:00-12:00 Professor: Lect. dr. Diac Paul AND Asist. drd. Ioniță Alexandru AND Colab. Oleniuc Iulian	room: C909

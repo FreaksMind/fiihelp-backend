@@ -1,0 +1,9 @@
+Master: Advanced Studies in Computer Science
+Year: 1
+Schedule Link: https://edu.info.uaic.ro/orar/participanti/orar_MSAI1.html
+
+[COURSES]
+
+Friday:
+
+09:00–10:00 – Formal Research I (Seminar) – Lecturer: Dr. Florentin Emanuel Olariu

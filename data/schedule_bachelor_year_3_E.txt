@@ -1,0 +1,58 @@
+Bachelor: Computer Science
+Year: 3E
+Schedule Link: https://edu.info.uaic.ro/orar/participanti/orar_I3E.html
+
+[COURSES]
+
+Monday:
+- Internship – Lab – 10:00-12:00 Professor: Conf. dr. Panu Andrei room: C310 Gr: 1
+- Social Media Network Analysis – Lab – 12:00-14:00 Professor: Conf. dr. Vitcu Anca room: C401
+- Social Media Network Analysis – Course – 14:00-16:00 Professor: Conf. dr. Vitcu Anca room: C112
+- Psychology of Professional Communication in IT – Course – 14:00-16:00 Professor: Lect. dr. Armanu Nicoleta room: C308
+- Advanced Topics in .NET – Course – 16:00-18:00 Professor: Drd. Olariu Florin room: C308
+- Game Design – Course – 18:00-20:00 Professor: Lect. dr. Moruz Alex room: C308
+
+Tuesday:
+- Human–Computer Interaction – Course – 8:00-10:00 Professor: Colab. drd. Grigoriu Alecsandru room: C308
+- Classroom Management – Seminar – 8:00-10:00 Professor: Prof. Prisacariu Gabriela room: C413
+- Smart Cards and Applications – Course – 10:00-12:00 Professor: Lect. dr. Bîrjoveanu Cătălin room: C210
+- Natural Language Processing Techniques – Course – 10:00-12:00 Professor: Asist. dr. Scutelnicu Andrei room: C308
+- Numerical Analysis – Lab – 12:00-14:00 Professor: Conf. dr. Arusoaie Andreea-Valentina room: C413 Gr: 2
+- Psychology of Professional Communication in IT – 14:00-16:00 Seminar – Professor: Lect. dr. Armanu Nicoleta room: C901
+- Software Engineering for Automotive – Course – 16:00-18:00 Professor: Colab. Roman Ionuț room: C308
+- Cloud Computing – Lab – 18:00-20:00 Professor: Asist. drd. Calancea Cristina-Georgiana room: C405
+
+Wednesday:
+- Cloud Computing – Course – 8:00-10:00 Professor: Prof. dr. Alboaie Lenuța room: C309
+- Numerical Analysis – Course – 10:00-12:00 Professor: Conf. dr. Ignat Anca room: C112
+- Computer Graphics and Computational Geometry – Course – 12:00-14:00 Professor: Lect. dr. Croitoru Eugen room: C112
+- Smart Cards and Applications – Lab –  12:00-14:00 Professor: Lect. dr. Bîrjoveanu Cătălin room: C210
+- Numerical Analysis – Lab – 14:00-16:00 Professor: Conf. dr. Arusoaie Andreea-Valentina room: C401 Gr: 1
+- Petri Nets and Applications – Course – 16:00-18:00 Professor: Lect. dr. Captarencu Oana room: C308
+- Software Engineering for Automotive – Lab – 18:00-20:00 Professor: Colab. Roman Ionuț room: C210
+
+Thursday:
+- Knowledge-Based Systems – Course – 8:00-10:00 Professor: Lect. dr. Pistol Ionuț Cristian room: C309
+- Mobile Platform Programming Techniques – Course – 8:00-10:00 Professor: Conf. dr. Gavriluț Dragoș room: C308
+- Internship – Lab – 10:00-12:00 Professor: Conf. dr. Panu Andrei room: C310 Gr: 2
+- Introduction to the Internet of Things – Course – 10:00-12:00 Professors: Lect. dr. Nica Anca-Maria and Asist. dr. Scutelnicu Andrei room: C309
+- Mobile Platform Programming Techniques – Lab – 12:00-14:00 Professor: Colab. Lupăscu Marilena room: C903
+- Classroom Management – Course – 14:00-16:00 Professor: Conf. dr. Curelaru Versavia room: C308
+- Human–Computer Interaction – Lab – 16:00-18:00 Professor: Colab. drd. Grigoriu Alecsandru room: C403
+- Competitive Programming – Seminar – 16:00-20:00 Professors: Lect. dr. Diac Paul; Asist. drd. Ioniță Alexandru; Colab. Oleniuc Iulian room: C210
+
+Friday:
+- Computational Aspects in Number Theory – Course – 8:00-10:00 Professor: Lect. dr. Iftene Sorin room: C309
+- Game Design – Lab – 8:00-10:00 Professor: Lect. dr. Moruz Alex room: C210
+- Knowledge-Based Systems – Lab – 8:00-10:00 Professor: Lect. dr. Pistol Ionuț Cristian room: C403
+- Numerical Analysis – Lab – 10:00-12:00 Professor: Conf. dr. Arusoaie Andreea-Valentina room: C405
+- Professional Practice – Practical – 10:00-12:00 Professor: Conf. dr. Ciortuz Liviu room: R209
+- Introduction to the Internet of Things – Lab – 14:00-16:00 Professors: Lect. dr. Nica Anca-Maria and Asist. dr. Scutelnicu Andrei room: C413
+- Tutoring – Lab – 14:00-15:00 Professor: Asist. drd. Cornei Laura room: Online
+- Tutoring – Lab – 16:00-17:00 Professor: Lect. dr. Nica Anca-Maria room: C308 Gr: 1
+
+Saturday:
+- Computer Graphics and Computational Geometry – Lab – 8:00-10:00 Professor: Dinu Sergiu room: C411 Gr: 1
+- Computer Graphics and Computational Geometry – Lab – 10:00-12:00 Professor: Dinu Sergiu room: C411 Gr: 2
+- Competitive Programming – Seminar – 10:00-12:00 Professors: Lect. dr. Diac Paul; Asist. drd. Ioniță Alexandru; Colab. Oleniuc Iulian room: C909
+- Computer Graphics and Computational Geometry – Lab – 12:00-14:00 Professor: Dinu Sergiu room: C411 Gr: 3

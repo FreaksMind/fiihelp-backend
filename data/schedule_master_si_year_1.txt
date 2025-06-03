@@ -1,0 +1,33 @@
+Master: Information Security
+Year: 1
+Schedule Link: https://edu.info.uaic.ro/orar/participanti/orar_MSI1.html
+
+[COURSES]
+
+Monday:
+
+14:00–16:00 – Security Protocols: Modeling and Verification – Course – Lecturer: Dr. Cătălin Bîrjoveanu – Room: C210
+
+18:00–20:00 – Security Protocols: Modeling and Verification – Laboratory – Lecturer: Dr. Cătălin Bîrjoveanu – Room: C210
+
+Tuesday:
+
+18:00–20:00 – Computer Network Security – Course – Professor: Dr. Laurențiu Ferucio Țiplea – Room: C309
+
+Wednesday:
+
+16:00–18:00 – Specification and Verification of Systems – Course – Associate Professor: Dr. Rodica Condurache – Room: Online
+
+Thursday:
+
+16:00–18:00 – IoT Security – Course – Lecturer: Dr. Anca-Maria Nica – Room: C903
+
+18:00–19:00 – IoT Security – Laboratory – Lecturer: Dr. Anca-Maria Nica – Room: C903
+
+19:00–20:00 – Tutoring – Laboratory – Professor: Dr. Laurențiu Ferucio Țiplea – Room: C301, Online
+
+Friday:
+
+16:00–18:00 – Specification and Verification of Systems – Seminar – Associate Professor: Dr. Rodica Condurache – Room: C411
+
+18:00–20:00 – Computer Network Security – Laboratory – Associate Professor: Dr. Emanuel Onică – Room: C210

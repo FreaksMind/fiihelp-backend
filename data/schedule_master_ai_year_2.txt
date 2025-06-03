@@ -1,0 +1,11 @@
+Master: Artificial Intelligence and Optimization (MIAO)
+Year: 2
+Schedule Link: https://edu.info.uaic.ro/orar/participanti/orar_MIAO2.html
+
+[COURSES]
+Monday:
+- Ethics and academic integrity - Course - 18:00–20:00 - Odd weeks Professor: Conf. dr. Trandabăț Diana room: C112
+
+Tuesday:
+- Professional/Research Practice - Lab - 08:00–10:00 - Odd weeks Professor: Prof. dr. Breabăn Mihaela
+- Professional/Research Practice - Lab - 18:00-20:00 - Even weeks Professor: Prof. dr. Breabăn Mihaela

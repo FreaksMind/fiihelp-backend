@@ -1,0 +1,58 @@
+Bachelor: Computer Science
+Year: 2B
+Schedule Link: https://edu.info.uaic.ro/orar/participanti/orar_I2B.html
+
+[COURSES]
+
+Monday:
+- Programming Engineering – Lab – 08:00–10:00 Professor: Drd. Irimia Cosmin room: C405 Gr: 2
+- Programming Engineering – Lab – 08:00–10:00 Professor: Lect. dr. Moruz Alex room: C210 gr: 3
+- Advanced Programming – Lab – 08:00–10:00 Professor: Colab. Abăcioaie Nicolae room: C411 Gr: 1
+- English Language 4 – Seminar – 10:00–12:00 Professor: Lect. dr. Onofrei Paula room: C903 Gr: 4
+- Specialization Didactics – Course – 12:00–14:00 Professor: Asist. dr. Gratie Diana Elena room: C308
+- Functional Programming – Course – 14:00–16:00 Professor: Conf. dr. Ciobâcă Ștefan room: C309
+- Introduction to Cryptography – Course – 16:00–18:00 Professor: Prof. dr. Țiplea Ferucio Laurențiu room: C309
+- Embedded Systems – Course – 16:00–18:00 Professor: Lect. dr. Rădulescu Vlad room: C2
+
+Tuesday:
+- Programming Engineering – Lab – 08:00–10:00 Professor: Drd. Irimia Cosmin room: C405 Gr: 1
+- Introduction to Cryptography – Lab – 10:00–12:00 Professor: Lect. dr. Iftene Sorin room: C903
+- Embedded Systems – Lab – 10:00–12:00 Professor: Lect. dr. Rădulescu Vlad room: C405
+- Programming Engineering – Course – 12:00–14:00 Professors: Prof. dr. Iftene Adrian; Lect. dr. Moruz Alex room: C112
+- Physical Education – Practice – 14:00–15:00 Instructor: Prof. Huma Alexandru Gr: 4
+- English Language 4 – Seminar – 14:00–16:00 Professor: Lect. dr. Onofrei Paula room: C903 Gr: 3
+- Advanced Programming – Lab – 18:00–20:00 Professor: Colab. Opaiț Elena room: C413 Gr: 2
+
+Wednesday:
+- Advanced Programming – Course – 08:00–10:00 Professor: Lect. dr. Frăsinaru Cristian room: C112
+- English Language 4 – Seminar – 10:00–12:00 Professor: Lect. dr. Onofrei Paula room: C909 Gr: 1
+- Advanced Programming – Lab – 10:00–12:00 Professor: Drd. Irimia Cosmin room: C405 Gr: 4
+- English Language 4 – Seminar – 12:00–14:00 Professor: Lect. dr. Onofrei Paula room: C909 Gr: 2
+- Web Technologies – Course – 14:00–16:00 Professor: Prof. dr. Buraga Sabin Corneliu room: C309
+- Programming Engineering – Lab – 16:00–18:00 Professor: Drd. Olariu Florin room: C403 Gr: 4
+- Tutoring – Lab – 16:00–17:00 Professor: Lect. dr. Onofrei Paula room: C902 Gr: 1 AND Gr: 2
+- Web Technologies – Lab – 18:00–20:00 Professor: Rebeja Petru room: C412 Gr: 3
+
+Thursday:
+- Functional Programming – Lab – 08:00–10:00 Professor: Conf. dr. Arusoaie Andrei room: C411
+- IT Entrepreneurship and Innovation – Course – 10:00–12:00 Professor: Conf. dr. Forăscu Corina room: C308
+- Physical Education – Practice – 12:00–13:00 Instructor: Prof. Huma Alexandru Gr: 3
+- DBMS Practice – Lab – 12:00–14:00 Professor: Lect. dr. Vârlan Simona-Elena room: C413 Gr: 2
+- Web Technologies – Lab – 12:00–14:00 Professor: Lect. dr. Captarencu Oana room: C412 Gr: 1
+- Physical Education – Practice – 14:00–15:00 Instructor: Prof. Huma Alexandru Gr: 1
+- DBMS Practice – Lab – 14:00–16:00 Professor: Lect. dr. Vârlan Simona-Elena room: C403 Gr: 4
+- Web Technologies – Lab – 14:00–16:00 Professor: Lect. dr. Captarencu Oana room: C412 Gr: 2
+- IT Entrepreneurship and Innovation – Lab – 16:00–18:00 Professor: Conf. dr. Forăscu Corina room: C405
+- Competitive Programming – Seminar – 16:00–20:00 Professors: Lect. dr. Diac Paul; Asist. drd. Ioniță Alexandru; Colab. Oleniuc Iulian room: C210
+- DBMS Practice – Lab – 18:00–20:00 Professor: Constantinescu Gabriel room: C403 Gr: 3
+- Web Technologies – Lab – 18:00–20:00 Professor: Rebeja Petru room: C412 Gr: 4
+
+Friday:
+- Specialization Didactics – Seminar – 08:00–10:00 Professor: Asist. dr. Gratie Diana Elena room: C411
+- Advanced Programming – Lab – 08:00–10:00 Professor: Drd. Irimia Cosmin room: C412 Gr: 3
+- DBMS Practice – Lab – 10:00–12:00 Professor: Lect. dr. Vârlan Simona-Elena room: C401 Gr: 1
+- Physical Education – Practice – 15:00–16:00 Instructor: Prof. Huma Alexandru Gr: 2
+- DBMS Practice – Course – 16:00–18:00 Professor: Lect. dr. Vârlan Simona-Elena room: C112
+
+Saturday:
+- Competitive Programming – Seminar – 10:00–12:00 Professors: Lect. dr. Diac Paul; Asist. drd. Ioniță Alexandru; Colab. Oleniuc Iulian room: C909

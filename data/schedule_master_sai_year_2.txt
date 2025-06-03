@@ -1,0 +1,9 @@
+Master: Advanced Studies in Computer Science
+Year: 2
+Schedule Link: https://edu.info.uaic.ro/orar/participanti/orar_MSAI2.html
+
+[COURSES]
+
+Thursday:
+
+18:00–20:00 – Professional Practice / Research (Laboratory) – Associate Professor Dr. Ignat Anca

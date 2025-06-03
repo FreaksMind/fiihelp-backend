@@ -1,0 +1,36 @@
+Master: Artificial Intelligence and Optimization (MIAO)
+Year: 1
+Schedule Link: https://edu.info.uaic.ro/orar/participanti/orar_MIAO1.html
+
+[COURSES]
+Monday:
+- Data Mining - Lab - 16:00-18:00 Professor: Prof. dr. Breabăn Mihaela AND Asist. drd. Cornei Laura room: C413
+- Advanced Topics in Computer Vision - Lab - 18:00-20:00 Professor: Colab. dr. Timofte Radu room: C2
+
+Tuesday:
+- Software Quality - Course - 12:00–14:00 Professor: Lect.dr. Rădulescu Vlad room: C308
+- Concurrent and Distributed Programming - Course - 16:00–18:00 Professor: Prof. dr. Alboaie Lenuța room: C309
+- Concurrent and Distributed Programming - Lab - 18:00–20:00 Professor: Prof. dr. Alboaie Lenuța room: C308
+
+Wednesday:
+- Pragmatic Aspects in Engineering of Cloud Systems - Course - 08:00–10:00 Professor: Lect.dr. Rădulescu Vlad room: Amazon Iași
+- Software Quality - Lab - 12:00–14:00 Professor: Lect.dr. Rădulescu Vlad room: C405
+- Advanced Topics of Machine Learning - Course - 16:00-18:00 Professor: Conf. dr. Ciortuz Liviu room: C309
+- Advanced Topics of Machine Learning - Lab - 18:00–20:00 Professor: Conf. dr. Ciortuz Liviu room: 309
+
+Thursday:
+- Pragmatic Aspects in Engineering of Cloud Systems - Lab - 08:00–10:00 Professor: Prof. dr. Luchian Henri room: Amazon Iași
+- Data Mining - Course - 12:00-14:00 Professor: Prof. dr. Luchian Henri room: C308
+- Event-Based Systems - Course - 16:00-18:00 Professor: Conf. dr. Onica Emanuel room: C309
+- Event-Based Systems - Lab - 18:00-20:00 Professor: Conf. dr. Onica Emanuel room: C309
+
+Friday:
+- Experimental Analysis of Algorithms - Lab - 08:00–10:00 Professor: Conf. dr. Răschip Mădălina room: C308
+- Experimental Analysis of Algorithms - Course - 10:00–12:00 Professor: Conf. dr. Răschip Mădălina room: C309
+
+Saturday:
+- Advanced Topics in Computer Vision - Course - 9:00-15:00 - 01.03.2025 Professor: Colab. dr. Timofte Radu room: Online
+- Advanced Topics in Computer Vision - Course - 9:00-15:00 - 15.03.2025 Professor: Colab. dr. Timofte Radu room: Online
+- Advanced Topics in Computer Vision - Course - 9:00-15:00 - 05.04.2025 Professor: Colab. dr. Timofte Radu room: Online
+- Advanced Topics in Computer Vision - Course - 9:00-15:00 - 03.05.2025 Professor: Colab. dr. Timofte Radu room: Online
+- Advanced Topics in Computer Vision - Course - 9:00-13:00 - 17.05.2025 Professor: Colab. dr. Timofte Radu room: Online

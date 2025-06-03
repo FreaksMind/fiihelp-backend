@@ -1,0 +1,30 @@
+--- FACILITIES ---
+[Student Life]
+- The Association of Computer Science Students of Iași (ASII): organizes meetings, competitions, an online magazine, etc.
+- Participation in prestigious competitions:
+  - Imagine Cup: 1st place in Software Design (2009), 1st place in Short Film (2004)
+  - Google Summer of Code
+  - ACM Competition
+- Close collaboration between students and professors:
+  - Organizing academic events
+  - Co-authoring book chapters
+  - Attending national and international conferences
+
+[Library]
+- A subsidiary of the “Mihai Eminescu” Central University Library.
+- Collection: ~3000 volumes + various academic journals and magazines.
+- Many books were generously donated by Microsoft.
+- Location: “Al. I. Cuza” University of Iași, Building C, ground floor, Str. General Berthelot, no. 16.
+
+[Internet Access]
+- Students and faculty have access to Internet services (email, FTP, Web) via the academic RoEduNet network.
+- Infrastructure:
+  - Main Linux servers
+  - Additional servers for Internet/Intranet access
+  - Access available also in the student campus
+
+[Scholarships]
+- Granted based on admission results and academic performance.
+- Top students receive special prizes annually.
+- Opportunity to study abroad for 1–2 semesters via the Socrates/ECTS program.
+- Industrial scholarships are also available from companies such as Siemens VDO.

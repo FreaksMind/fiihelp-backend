@@ -1,0 +1,51 @@
+Bachelor: Computer Science
+Year: 2E
+Schedule Link: https://edu.info.uaic.ro/orar/participanti/orar_I2E.html
+
+[COURSES]
+
+Monday:
+- Software Engineering – Lab – 08:00–10:00 Professor: Prof. dr. Iftene Adrian room: C403 Gr: 1
+- Software Engineering – Course – 10:00–12:00 Professors: Prof. dr. Iftene Adrian; Lect. dr. Moruz Alex room: C308
+- Specialization Didactics – Course – 12:00–14:00 Professor: Asist. dr. Gratie Diana Elena room: C308
+- Functional Programming – Course – 14:00–16:00 Professor: Conf. dr. Ciobâcă Ștefan room: C309
+- Introduction to Cryptography – Course – 16:00–18:00 Professor: Prof. dr. Țiplea Ferucio Laurențiu room: C309
+- Embedded Systems – Course – 16:00–18:00 Professor: Lect. dr. Rădulescu Vlad room: C2
+- Introduction to Cryptography – Lab – 18:00–20:00 Professor: Prof. dr. Țiplea Ferucio Laurențiu room: C309
+- Embedded Systems – Lab – 18:00–20:00 Professor: Lect. dr. Rădulescu Vlad room: C405
+
+Tuesday:
+- Software Engineering – Lab – 08:00–10:00 Professor: Prof. dr. Iftene Adrian room: C403 Gr: 2
+- Web Technologies – Course – 10:00–12:00 Professor: Conf. dr. Panu Andrei room: C309
+- English Language 4 – Seminar – 12:00–14:00 Professor: Lect. dr. Armanu Nicoleta room: C905 Gr: 2
+- English Language 4 – Seminar – 12:00–14:00 Professor: Lect. dr. Onofrei Paula room: C903 Gr: 3
+- Web Technologies – Lab – 12:00–14:00 Professor: Conf. dr. Panu Andrei room: C401 Gr: 1
+- Physical Education – Practice – 15:00–16:00 Instructor: Prof. Huma Alexandru Gr: 1
+- English Language 4 – Seminar – 16:00–18:00 Professor: Lect. dr. Armanu Nicoleta room: C903 Gr: 1
+
+Wednesday:
+- Web Technologies – Lab – 10:00–12:00 Professor: Conf. dr. Panu Andrei room: C413 Gr: 2
+- Web Technologies – Lab – 12:00–14:00 Professor: Conf. dr. Panu Andrei room: C413 Gr: 3
+- Physical Education – Practice – 14:00–15:00 Instructor: Prof. Huma Alexandru Gr: 2
+- Advanced Programming – Lab – 16:00–18:00 Professor: Constantinescu Gabriel room: C405 Gr: 3
+
+Thursday:
+- Advanced Programming – Course – 08:00–10:00 Professor: Asist. dr. Prelipcean Bogdan room: C112
+- IT Entrepreneurship and Innovation – Course – 10:00–12:00 Professor: Conf. dr. Forăscu Corina room: C308
+- Functional Programming – Lab – 10:00–12:00 Professor: Conf. dr. Arusoaie Andrei room: C411
+- IT Entrepreneurship and Innovation – Lab – 12:00–14:00 Professor: Conf. dr. Forăscu Corina room: C405
+- Software Engineering – Lab – 14:00–16:00 Professor: Colab. drd. Simionescu Cristian room: C413 Gr: 3
+- DBMS Practice – Lab – 16:00–18:00 Professor: Lect. dr. Vârlan Simona-Elena room: C409 Gr: 3
+- Competitive Programming – Seminar – 16:00–20:00 Professors: Lect. dr. Diac Paul; Asist. drd. Ioniță Alexandru; Colab. Oleniuc Iulian room: C210
+- DBMS Practice – Lab – 18:00–20:00 Professor: Lect. dr. Vârlan Simona-Elena room: C409 Gr: 2
+
+Friday:
+- Advanced Programming – Lab – 08:00–10:00 Professor: Asist. dr. Prelipcean Bogdan room: C413 Gr: 1
+- Advanced Programming – Lab – 10:00–12:00 Professor: Asist. dr. Prelipcean Bogdan room: C413 Gr: 2
+- Specialization Didactics – Seminar – 10:00–12:00 Professor: Asist. dr. Gratie Diana Elena room: C411
+- DBMS Practice – Lab – 12:00–14:00 Professor: Lect. dr. Vârlan Simona-Elena room: C413 Gr: 1
+- Physical Education – Practice – 16:00–17:00 Instructor: Prof. Huma Alexandru Gr: 3
+- DBMS Practice – Course – 18:00–20:00 Professor: Lect. dr. Vârlan Simona-Elena room: C309
+
+Saturday:
+- Competitive Programming – Seminar – 10:00–12:00 Professors: Lect. dr. Diac Paul; Asist. drd. Ioniță Alexandru; Colab. Oleniuc Iulian room: C909

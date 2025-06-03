@@ -1,0 +1,39 @@
+Master: Software Engineering
+Year: 1 (Group 2)
+Schedule Link: https://edu.info.uaic.ro/orar/participanti/orar_MISS12.html
+
+[COURSES]
+
+Monday:
+
+16:00–18:00 – Advanced Topics in Computer Vision (Laboratory) – Collaborator Dr. Radu Timofte – Room: C401
+
+Tuesday:
+
+12:00–14:00 – Software Systems Quality (Course) – Lecturer Dr. Vlad Rădulescu – Room: C308
+
+14:00–16:00 – Concurrent and Distributed Programming (Laboratory) – Professor Dr. Lenuța Alboaie – Room: C411
+
+16:00–18:00 – Concurrent and Distributed Programming (Course) – Professor Dr. Lenuța Alboaie – Room: C309
+
+Wednesday:
+
+08:00–10:00 – Pragmatic Cloud Aspects (Course) – — – Room: Amazon Iași
+
+12:00–14:00 – Software Systems Quality (Laboratory) – Lecturer Dr. Vlad Rădulescu – Room: C405
+
+16:00–18:00 – Special Topics in Machine Learning (Course) – Associate Professor Dr. Liviu Ciortuz – Room: C309
+
+18:00–20:00 – Special Topics in Machine Learning (Seminar) – Associate Professor Dr. Liviu Ciortuz – Room: C309
+
+Thursday:
+
+08:00–10:00 – Pragmatic Cloud Aspects (Laboratory) – — – Room: Amazon Iași
+
+12:00–14:00 – Software Systems Quality (Laboratory) – Lecturer Dr. Vlad Rădulescu – Room: C210
+
+16:00–18:00 – Event-Based Systems (Course) – Associate Professor Dr. Emanuel Onica – Room: C309
+
+Friday:
+
+16:00–18:00 – Event-Based Systems (Laboratory) – Associate Professor Dr. Emanuel Onica – Room: C210

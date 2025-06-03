@@ -1,0 +1,26 @@
+--- MASTER'S PROGRAMS INFO ---
+Info Link: https://www.info.uaic.ro/en/master-studies/
+
+Name: Software Engineering (MISS, ISS)
+More Details Link: https://www.info.uaic.ro/en/programs/software-engineering-en/
+Study Plan Link: https://cdn-1.info.uaic.ro/info-uaic-ro/planuri/2024-2025/MISS-en.pdf
+
+Name: Computational Linguistics (MLC, LC)
+More Details: https://www.info.uaic.ro/en/programs/computational-linguistics-en/
+Study Plan Link: https://cdn-1.info.uaic.ro/info-uaic-ro/planuri/2024-2025/MLC-en.pdf
+
+Name: Computational Optimization / Artificial Intelligence and Optimization (MIAO, IAO)
+More Details: https://www.info.uaic.ro/en/programs/computational-optimization/
+Study Plan Link: https://cdn-1.info.uaic.ro/info-uaic-ro/planuri/2024-2025/MIAO-en.pdf
+
+Name: Distributed Systems (MSD, SD)
+More Details: https://www.info.uaic.ro/en/programs/distributed-systems/
+Study Plan Link: https://cdn-1.info.uaic.ro/info-uaic-ro/planuri/2024-2025/MSD-en.pdf
+
+Name: Information Security (MSI, SI)
+More Details: https://www.info.uaic.ro/en/programs/information-security/
+Study Plan Link: https://cdn-1.info.uaic.ro/info-uaic-ro/planuri/2024-2025/MSI-en.pdf
+
+Name: Advanced Studies in Computer Science (MSAI, SAI)
+More Details: https://www.info.uaic.ro/en/programs/advanced-studies-in-computer-science-en/
+Study Plan Link: https://cdn-1.info.uaic.ro/info-uaic-ro/planuri/2024-2025/MSAI-en.pdf

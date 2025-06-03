@@ -1,0 +1,24 @@
+Master: Computational Linguistics (MLC)
+Year: 1
+Schedule Link: https://edu.info.uaic.ro/orar/participanti/orar_MLC1.html
+
+[COURSES]
+Monday:
+- Data Mining - Lab - 18:00-20:00 Professor: Prof. dr. Breabăn Mihaela AND Asist. drd. Cornei Laura room: C413
+
+Tuesday:
+- Dialog systems and virtual assistants - Course - 8:00-10:00 Professor: Lect. dr. Pistol Ionuț Cristian room: C409
+- Dialog systems and virtual assistants - Lab - 10:00-12:00 Professor: Lect. dr. Pistol Ionuț Cristian room: C409
+
+Wednesday:
+- Script Languages - Lab - 8:00-10:00 Professor: CS II Dr. Gifu Daniela AND Conf. dr. Trandabăț Diana room: R201
+
+Thursday:
+- Statistical natural language processing - Lab - 8:00-10:00 Professor: CS II Dr. Gifu Daniela room: C413
+- Statistical natural language processing - Course - 10:00-12:00 Professor: Conf. dr. Trandabăț Diana room: C403
+- Data Mining - Course - 12:00-14:00 Professor: Prof. dr. Luchian Henri room: C308
+- Speech processing and fuzzy systems - Course - 14:00-16:00 Professor: Prof. dr. Teodorescu Horia room: C112
+- Speech processing and fuzzy systems - Lab - 16:00-18:00 Professor: Prof. dr. Teodorescu Horia room: C901
+
+Friday:
+- Script Languages - Course - 8:00-10:00 Professor: Conf. dr. Trandabăț Diana room: R201
