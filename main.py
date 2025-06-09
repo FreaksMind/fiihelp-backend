@@ -8,6 +8,7 @@ from pydub import AudioSegment
 
 from ai import get_answer, sr, speak
 from ai import get_answer
+from utils import identify_relevant_images
 
 app = Flask(__name__)
 CORS(app)
@@ -24,7 +25,7 @@ def post_question():
 
     try:
         answer = get_answer(question, session_id)
-        return jsonify({"answer": answer})
+        return jsonify({"answer": answer, "images": list(identify_relevant_images(question))})
     except Exception as e:
         print(e)
         return jsonify({"error": str(e)}), 500
